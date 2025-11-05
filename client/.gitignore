@@ -24,4 +24,5 @@ dist-ssr
 *.sw?
 
 .dockerignore
-package*.json
+package.json
+package-lock.json
